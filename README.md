@@ -1,4 +1,4 @@
-![image](https://github.com/Sandhyacharu/Handwritten-Tamil-Character-Recognition/assets/75235167/8d9cd900-cfc4-408b-a028-aaeb394dff3a)![image](https://github.com/Sandhyacharu/Handwritten-Tamil-Character-Recognition/assets/75235167/53d48bf9-2bd0-464c-9b2f-28ccb01284d3)![image](https://github.com/Sandhyacharu/Handwritten-Tamil-Character-Recognition/assets/75235167/447d2af5-864d-4837-8ecc-d7c74f9d1f88)## Deep Learning Approach for Handwritten Tamil Character Recognition and Flask Deployment
+## Deep Learning Approach for Handwritten Tamil Character Recognition and Flask Deployment
 Handwritten Tamil letter recognition is a fundamental task in pattern recognition and language processing, aiming to automatically interpret and transcribe handwritten Tamil characters into digital text. While traditional methods have made significant strides in this field, the emergence of deep learning, particularly Convolutional Neural Networks (CNNs), has sparked new avenues for enhancing the accuracy and efficiency of handwritten Tamil letter recognition systems.
 
 ## About
